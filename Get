@@ -1,1 +1,1 @@
-/test/demo_form.php?name1=value1&name2=value2
+<form action="/demo_form.php?name1=value1&name2=value2"method="get">
